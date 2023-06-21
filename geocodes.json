@@ -1,0 +1,157 @@
+[
+ {
+   "city": "Amaravati, Andhra Pradesh",
+   "latitude": 16.5130887,
+   "longitude": 80.5164523
+ },
+ {
+   "city": "Itanagar, Arunachal Pradesh",
+   "latitude": 27.0843682,
+   "longitude": 93.6053163
+ },
+ {
+   "city": "Dispur, Assam",
+   "latitude": 26.1157917,
+   "longitude": 91.7085933
+ },
+ {
+   "city": "Patna, Bihar",
+   "latitude": 25.5940947,
+   "longitude": 85.1375645
+ },
+ {
+   "city": "Raipur[c], Chhattisgarh",
+   "latitude": 21.2513844,
+   "longitude": 81.6296413
+ },
+ {
+   "city": "Delhi, Delhi",
+   "latitude": 28.6862738,
+   "longitude": 77.2217831
+ },
+ {
+   "city": "Panaji[d], Goa",
+   "latitude": 15.4909301,
+   "longitude": 73.8278496
+ },
+ {
+   "city": "Gandhinagar, Gujarat",
+   "latitude": 23.2156354,
+   "longitude": 72.6369415
+ },
+ {
+   "city": "Chandigarh, Haryana",
+   "latitude": 30.7333148,
+   "longitude": 76.7794179
+ },
+ {
+   "city": "Shimla, Himachal Pradesh",
+   "latitude": 31.1048145,
+   "longitude": 77.1734033
+ },
+ {
+   "city": "Srinagar, Jammu and Kashmir",
+   "latitude": 34.0836708,
+   "longitude": 74.7972825
+ },
+ {
+   "city": "Jammu, Jammu and Kashmir",
+   "latitude": 32.7266016,
+   "longitude": 74.8570259
+ },
+ {
+   "city": "Ranchi, Jharkhand",
+   "latitude": 23.3440997,
+   "longitude": 85.309562
+ },
+ {
+   "city": "Bangalore, Karnataka",
+   "latitude": 12.9715987,
+   "longitude": 77.5945627
+ },
+ {
+   "city": "Thiruvananthapuram, Kerala",
+   "latitude": 8.5241391,
+   "longitude": 76.9366376
+ },
+ {
+   "city": "Bhopal, Madhya Pradesh",
+   "latitude": 23.2599333,
+   "longitude": 77.412615
+ },
+ {
+   "city": "Mumbai[e], Maharashtra",
+   "latitude": 19.0759837,
+   "longitude": 72.8776559
+ },
+ {
+   "city": "Imphal, Manipur",
+   "latitude": 24.8170111,
+   "longitude": 93.9368439
+ },
+ {
+   "city": "Shillong, Meghalaya",
+   "latitude": 25.5787726,
+   "longitude": 91.8932535
+ },
+ {
+   "city": "Aizawl, Mizoram",
+   "latitude": 23.7307175,
+   "longitude": 92.7173106
+ },
+ {
+   "city": "Kohima, Nagaland",
+   "latitude": 25.6751129,
+   "longitude": 94.1085998
+ },
+ {
+   "city": "Bhubaneswar, Odisha",
+   "latitude": 20.2960587,
+   "longitude": 85.8245398
+ },
+ {
+   "city": "Chandigarh, Punjab",
+   "latitude": 30.7333148,
+   "longitude": 76.7794179
+ },
+ {
+   "city": "Jaipur, Rajasthan",
+   "latitude": 26.9124336,
+   "longitude": 75.7872709
+ },
+ {
+   "city": "Gangtok[f], Sikkim",
+   "latitude": 27.3313512,
+   "longitude": 88.6138113
+ },
+ {
+   "city": "Chennai[g], Tamil Nadu",
+   "latitude": 13.0826802,
+   "longitude": 80.2707184
+ },
+ {
+   "city": "Hyderabad, Telangana",
+   "latitude": 17.385044,
+   "longitude": 78.486671
+ },
+ {
+   "city": "Agartala, Tripura",
+   "latitude": 23.831457,
+   "longitude": 91.2867777
+ },
+ {
+   "city": "Lucknow, Uttar Pradesh",
+   "latitude": 26.8466937,
+   "longitude": 80.946166
+ },
+ {
+   "city": "Dehradun, Uttarakhand",
+   "latitude": 30.3164945,
+   "longitude": 78.0321918
+ },
+ {
+   "city": "Kolkata, West Bengal",
+   "latitude": 22.572646,
+   "longitude": 88.363895
+ }
+]
